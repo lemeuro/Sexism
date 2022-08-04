@@ -1,0 +1,362 @@
+[
+	{
+		"id": "de",
+        "name": "Germany",
+        "status": "Prostitution legal and regulated",
+		"models": [
+            {
+                "name": "cora",
+                "role": "Adult Model"
+            },
+            {
+                "name": "magma",
+                "role": "Adult Model"
+            },
+            {
+                "name": "banks",
+                "role": "Adult Model"
+            }
+		],
+        "legalizationDate": "2002-01-01",
+		"prostitutionDescription": "Prostitution in Germany is legal, as are all aspects of the sex industry, including brothels, advertisement, and job offers through HR companies. Full-service sex work is widespread and regulated by the German government, which levies taxes on it. In 2002, the government changed the law in an effort to improve the legal situation of sex workers. However, the social stigmatization of sex work persists and many workers continue to lead a double life.",
+        "place": {
+            "name": "Pascha (brothel)",
+            "imageName": "pascha",
+            "coordinates": {
+                "latitude": 50.9533,
+                "longitude": 6.9375
+            }
+        },
+        "units": [
+            {
+                "name": "Distance",
+                "unit": "Kilometers"
+            },
+            {
+                "name": "Mass",
+                "unit": "Kilograms"
+            },
+            {
+                "name": "Temperature",
+                "unit": "Celsius"
+            }
+        ]
+	},
+	{
+		"id": "gb",
+        "name": "United Kingdom",
+        "status": "Prostitution legal",
+		"models": [
+            {
+                "name": "bentley",
+                "role": "Adult Model"
+            },
+            {
+                "name": "kova",
+                "role": "Fashion Model"
+            },
+            {
+                "name": "tate",
+                "role": "Adult Model"
+            }
+		],
+        "legalizationDate": "2010-04-01",
+		"prostitutionDescription": "In Great Britain, prostitution itself is legal,[79] but a number of related activities, including soliciting in a public place, kerb crawling, keeping a brothel, pimping, and pandering, are outlawed. The Policing and Crime Act 2009 makes it illegal to pay for sex with a prostitute who has been 'subjected to force', and this is a strict liability offence (clients can be prosecuted even if they didn't know the prostitute was forced). In Northern Ireland, which previously had similar laws to the rest of the United Kingdom, paying for sex became a crime when the Human Trafficking and Exploitation (Criminal Justice and Support for Victims) Act (Northern Ireland) 2015 was enacted in January 2015.",
+        "units": [
+            {
+                "name": "Distance",
+                "unit": "Kilometers"
+            },
+            {
+                "name": "Mass",
+                "unit": "Kilograms"
+            },
+            {
+                "name": "Temperature",
+                "unit": "Celsius"
+            }
+        ]
+	},
+	{
+		"id": "fr",
+        "name": "France",
+        "status": "Prostitution legal",
+		"models": [
+            {
+                "name": "tran",
+                "role": "Adult model"
+            },
+            {
+                "name": "polina",
+                "role": "Adult Model"
+            },
+            {
+                "name": "morgane",
+                "role": "Adult Model"
+            }
+		],
+        "legalizationDate": "2016-04-01",
+		"prostitutionDescription": "Prostitution in France (the exchange of sexual acts for money) was legal until April 2016, but several surrounding activities were illegal, like operating a brothel, living off the avails (pimping), and paying for sex with someone under the age of 18 (the age of consent for sex is 15). On 6 April 2016, the French National Assembly voted to punish customers of prostitutes by a fine of €1500. The law has been evaluated as a failure, putting sex workers in danger, reducing prices, and decreasing condom use among their clients. In the Napoleonic era, France became the model for the regulatory approach to prostitution. In the 20th century, however, a policy shift became apparent. Brothels became illegal in 1946, and France signed the Convention for the Suppression of the Traffic in Persons and of the Exploitation of the Prostitution of Others in 1960. France thus became a major supporter of the international abolitionist movement for the eradication of prostitution.",
+        "place": {
+            "name": "Moulin Rouge cabaret",
+            "imageName": "moulinrouge",
+            "coordinates": {
+                "latitude": 48.884129,
+                "longitude": 2.332400
+            }
+        },
+        "units": [
+            {
+                "name": "Distance",
+                "unit": "Kilometers"
+            },
+            {
+                "name": "Mass",
+                "unit": "Kilograms"
+            },
+            {
+                "name": "Temperature",
+                "unit": "Celsius"
+            }
+        ]
+	},
+	{
+		"id": "it",
+        "name": "Italy",
+        "status": "Prostitution legal",
+		"models": [
+            {
+                "name": "henger",
+                "role": "Adult Model"
+            },
+            {
+                "name": "nappi",
+                "role": "Adult Model"
+            },
+            {
+                "name": "tommasi",
+                "role": "Adult Model"
+            }
+		],
+        "legalizationDate": "2016-06-03",
+		"prostitutionDescription": "In Italy, prostitution, defined as the exchange of sexual acts for money, is legal, although organized prostitution, whether indoors in brothels or controlled by third parties, is prohibited. Brothels were banned in 1958. Individual sex workers working from apartments are 'tolerated'. Loitering is permitted, but soliciting ('unabashedly inviting clients on the street') is illegal. Migrants with work or residence permits may work in sex work, and police cannot revoke residence permits and begin deportation procedures, as they tried failing by the Italian laws. A 2008 report stated that were some 100,000 prostitutes in Italy. In 2007 it was stated that the total number of workers was 70,000. The Italian Statistics Institute stated the number of street workers in 1998 was 50,000. A euphemism often used to refer to prostitutes in Italy is Lucciole (lit. 'fireflies')",
+        "units": [
+            {
+                "name": "Distance",
+                "unit": "Kilometers"
+            },
+            {
+                "name": "Mass",
+                "unit": "Kilograms"
+            },
+            {
+                "name": "Temperature",
+                "unit": "Celsius"
+            }
+        ]
+	},
+	{
+		"id": "es",
+        "name": "Spain",
+        "status": "Prostitution legal",
+		"models": [
+            {
+                "name": "norai",
+                "role": "Adult Model"
+            },
+            {
+                "name": "miller",
+                "role": "Adult Model"
+            },
+            {
+                "name": "linares",
+                "role": "Adult Model"
+            }
+		],
+        "legalizationDate": "1995-03-06",
+		"prostitutionDescription": "Prostitution itself is legal in Spain, but pimping is not. Owning an establishment where prostitution takes place is legal if the owner neither derives financial gain from prostitution nor hires any person for the purposes of selling sex, because prostitution is not considered a job, and has no legal recognition. Most places do not regulate prostitution, but the government of Catalonia offers licenses for persons 'to gather people to practice prostitution'. These licenses are used by brothel owners to open 'clubs', where prostitution takes place (the women are theoretically only 'gathered' to work on the premises not employed by the owner). Some places have implemented fines for street prostitution.",
+        "units": [
+            {
+                "name": "Distance",
+                "unit": "Kilometers"
+            },
+            {
+                "name": "Mass",
+                "unit": "Kilograms"
+            },
+            {
+                "name": "Temperature",
+                "unit": "Celsius"
+            }
+        ]
+	},
+	{
+		"id": "nl",
+        "name": "Netherlands",
+        "status": "Prostitution legal and regulated",
+		"models": [
+            {
+                "name": "eden",
+                "role": "Adult Model"
+            },
+            {
+                "name": "leur",
+                "role": "Adult Model"
+            },
+            {
+                "name": "whites",
+                "role": "Adult Model"
+            }
+		],
+        "legalizationDate": "1988-01-01",
+		"prostitutionDescription": "Prostitution is legal and regulated in the Netherlands. Operating a brothel is also legal. From 1 January 2022, a customer will be punished if they purchase a sexual service from a sex worker of whom they know or have serious reason to suspect that there is coercion, exploitation or human trafficking.[175] In the last few years, a significant number of brothels and 'windows' have been closed because of suspected criminal activity. De Wallen, the largest and best-known red-light district in Amsterdam, is a destination for international sex tourism.In an attempt to fight abuse, the minimum age for prostitutes was raised from 18 to 21 years.",
+        "place": {
+            "name": "De Wallen",
+            "imageName": "dewallen",
+            "coordinates": {
+                "longitude": 4.892163098,
+                "latitude": 52.3707151838
+            }
+        },
+        "units": [
+            {
+                "name": "Distance",
+                "unit": "Kilometers"
+            },
+            {
+                "name": "Mass",
+                "unit": "Kilograms"
+            },
+            {
+                "name": "Temperature",
+                "unit": "Celsius"
+            }
+        ]
+	},
+	{
+		"id": "pl",
+        "name": "Poland",
+        "status": "Prostitution legal",
+		"models": [
+            {
+                "name": "wild",
+                "role": "Adult Model"
+            },
+            {
+                "name": "starr",
+                "role": "Adult Model"
+            },
+            {
+                "name": "pink",
+                "role": "Adult Model"
+            }
+		],
+		"prostitutionDescription": "In Poland prostitution is legal, but operating brothels or other forms of pimping or coercive prostitution and prostitution of minors are prohibited, as is living off someone else's prostitution. Prostitution is present in various forms in the country and a 2007 US State Department report stated that many women who worked as prostitutes were employed in massage parlors and escort services that functioned as brothels, although technically illegal. Prostitution is the only profession in Poland that is not taxed, but sex workers may be asked by authorities to prove that is what they do, since prostitution is not recognized as legitimate work, and therefore receive no social benefits. ",
+        "units": [
+            {
+                "name": "Distance",
+                "unit": "Kilometers"
+            },
+            {
+                "name": "Mass",
+                "unit": "Kilograms"
+            },
+            {
+                "name": "Temperature",
+                "unit": "Celsius"
+            }
+        ]
+	},
+	{
+		"id": "se",
+        "name": "Sweden",
+        "status": "Prostitution legal",
+		"models": [
+            {
+                "name": "swede",
+                "role": "Adult Model"
+            },
+            {
+                "name": "thoren",
+                "role": "Adult Model"
+            }
+		],
+		"prostitutionDescription": "Paying for sex is illegal (the client commits a crime, but not the prostitute). The Sex Purchase Act (Sexköpslagen), which makes it illegal to pay for sex, but not to be a prostitute, was adopted in 1999, and was then unique. Since then, similar laws have been passed in Norway and Iceland. The rationale underpinning the law was the view that prostitution was a form of violence against women so the crime consists in the customer paying for sex, not in the prostitute selling sexual services. This 'rationale' sees the seller of sex as the exploited partner in the exchange.",
+        "units": [
+            {
+                "name": "Distance",
+                "unit": "Kilometers"
+            },
+            {
+                "name": "Mass",
+                "unit": "Kilograms"
+            },
+            {
+                "name": "Temperature",
+                "unit": "Celsius"
+            }
+        ]
+	},
+	{
+		"id": "be",
+        "name": "Belgium",
+        "status": "Prostitution legal",
+		"models": [
+            {
+                "name": "marijke",
+                "role": "Adult Model"
+            }
+		],
+        "legalizationDate": "2022-06-01",
+		"prostitutionDescription": "Prostitution is decriminalized in Belgium since 1 June 2022, but the law prohibits pimping or assisting immigration for the purpose of prostitution. However, in practice enforcement can be lax and 'unofficial' brothels are tolerated (for example in Antwerp). Human trafficking or exploiting individuals for financial gain is punishable for a maximum prison sentence of 30 years. A recent report by RiskMonitor foundation states that 80% of the prostitutes who work as windows prostitutes in Belgium are from Bulgaria. Belgium is listed by the UNODC as a top destination for victims of human trafficking. Many sex workers organisations feel that the present grey area in which prostitution operates leaves sex workers vulnerable to exploitation. A report commissioned by the National Bank of Belgium, estimated a turnover of 840 million Euro in 2015. The most important segments of the market seem to be escort and private prostitution, rather than the more visible forms of window or street prostitution.",
+        "units": [
+            {
+                "name": "Distance",
+                "unit": "Kilometers"
+            },
+            {
+                "name": "Mass",
+                "unit": "Kilograms"
+            },
+            {
+                "name": "Temperature",
+                "unit": "Celsius"
+            }
+        ]
+	},
+	{
+		"id": "ie",
+        "name": "Ireland",
+        "status": "Prostitution legal",
+		"models": [
+            {
+                "name": "mcreese",
+                "role": "Adult Model"
+            },
+            {
+                "name": "otoole",
+                "role": "Adult Model"
+            },
+            {
+                "name": "ireland",
+                "role": "Adult Model"
+            }
+		],
+        "legalizationDate": "1993-02-16",
+		"prostitutionDescription": "Prostitution itself is legal in the Republic of Ireland, however since March 2017, it has been an offence to buy sex. Third party involvement such as operating brothels, and other forms of pimping, are also illegal. Although the 2017 law criminalising clients was designed to reduce the demand for prostitution, the law has had little effect. Most prostitution in Ireland occurs indoors and is advertised via the internet. Street prostitution has declined considerably.",
+        "units": [
+            {
+                "name": "Distance",
+                "unit": "Kilometers"
+            },
+            {
+                "name": "Mass",
+                "unit": "Kilograms"
+            },
+            {
+                "name": "Temperature",
+                "unit": "Celsius"
+            }
+        ]
+	}
+]
